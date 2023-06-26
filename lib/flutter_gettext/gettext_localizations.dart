@@ -1,3 +1,4 @@
+import 'package:collection/collection.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gettext/gettext/gettext.dart';
 import 'package:flutter_gettext/parser/gettext_parser.dart';
